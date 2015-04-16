@@ -17,8 +17,8 @@ import (
 	"text/tabwriter"
 	"time"
 
-	"github.com/gonuts/config"
 	"github.com/gonuts/logger"
+	"github.com/h4ck3rm1k3/config"
 	"github.com/lhcb-org/lbpkr/yum"
 )
 
